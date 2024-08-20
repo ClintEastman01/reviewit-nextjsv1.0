@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b389e5b-677b-49c8-bdd4-8cf89aa29c63" name="Changes" comment="relled back the bard refactor 😅" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2QJiCLVyDP60RL535vAl12noRH8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;prisma-branch&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kentaylor/Developer/Javascript Projects/Review It/review-it-nextjs-v7-remake&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/kentaylor/Developer/Javascript Projects/Review It/review-it-nextjs-v7-remake/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/api/create/item" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b389e5b-677b-49c8-bdd4-8cf89aa29c63" name="Changes" comment="" />
+      <created>1685077956827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685077956827</updated>
+      <workItem from="1685077958179" duration="165000" />
+      <workItem from="1685150122210" duration="1313000" />
+      <workItem from="1685152746832" duration="1625000" />
+      <workItem from="1685156832500" duration="1453000" />
+      <workItem from="1685159652456" duration="6299000" />
+      <workItem from="1685168922699" duration="2679000" />
+      <workItem from="1685184769446" duration="5470000" />
+      <workItem from="1685198897377" duration="3673000" />
+      <workItem from="1685208246253" duration="2980000" />
+      <workItem from="1685220066342" duration="1220000" />
+      <workItem from="1685221298636" duration="4802000" />
+      <workItem from="1685239647166" duration="4159000" />
+      <workItem from="1685244036936" duration="43000" />
+      <workItem from="1685244083068" duration="115000" />
+      <workItem from="1685244417596" duration="3087000" />
+      <workItem from="1685276411012" duration="10160000" />
+      <workItem from="1685316309683" duration="1293000" />
+      <workItem from="1685333105356" duration="15907000" />
+      <workItem from="1685450434070" duration="1365000" />
+      <workItem from="1685452292343" duration="3590000" />
+      <workItem from="1685470038546" duration="5558000" />
+      <workItem from="1685524974080" duration="4231000" />
+      <workItem from="1686418374684" duration="701000" />
+      <workItem from="1687481872094" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="error and loading pages for /">
+      <created>1685150362076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685150362076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pushing to main to test amplify">
+      <created>1685164174140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685164174140</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pushing to main to test amplify">
+      <created>1685165184343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685165184343</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pushing to main to test amplify">
+      <created>1685165263303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685165263303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upd">
+      <created>1685165796410</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685165796410</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor db check for user + create item">
+      <created>1685189734377</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685189734377</updated>
+    </task>
+    <task id="LOCAL-00007" summary="working on items+user+review creation. 80% done">
+      <created>1685233539284</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685233539284</updated>
+    </task>
+    <task id="LOCAL-00008" summary="review flow - create user in db - create review + item - success">
+      <created>1685297955052</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685297955052</updated>
+    </task>
+    <task id="LOCAL-00009" summary="review flow - create user in db - create review + item - success">
+      <created>1685298053993</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685298053993</updated>
+    </task>
+    <task id="LOCAL-00010" summary="item created by userId implimemted. @@unique not working">
+      <created>1685338448068</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685338448069</updated>
+    </task>
+    <task id="LOCAL-00011" summary="wont allow same item from same user with same title">
+      <created>1685383893350</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685383893350</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refactored create review with bard">
+      <created>1685458492693</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685458492693</updated>
+    </task>
+    <task id="LOCAL-00013" summary="relled back the bard refactor 😅">
+      <created>1685458930222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685458930222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="error and loading pages for /" />
+    <MESSAGE value="pushing to main to test amplify" />
+    <MESSAGE value="upd" />
+    <MESSAGE value="refactor db check for user + create item" />
+    <MESSAGE value="working on items+user+review creation. 80% done" />
+    <MESSAGE value="review flow - create user in db - create review + item - success" />
+    <MESSAGE value="item created by userId implimemted. @@unique not working" />
+    <MESSAGE value="wont allow same item from same user with same title" />
+    <MESSAGE value="refactored create review with bard" />
+    <MESSAGE value="relled back the bard refactor " />
+    <option name="LAST_COMMIT_MESSAGE" value="relled back the bard refactor " />
+  </component>
+</project>
